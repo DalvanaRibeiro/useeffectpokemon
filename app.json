@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Pokédex API 2026",
+    "slug": "pokemon-api-react-native-2026",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pokedexapi",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "platforms": ["android", "ios", "web"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#101828"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-router"]
+  }
+}
