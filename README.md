@@ -90,12 +90,14 @@ Entre na pasta do projeto e rode:
 
 ```bash
 npm install
+npm install expo@^54.0.0
 npm run start
 
 ```
 
 ou 
 ```bash
+
 npx expo start
 ```
 
