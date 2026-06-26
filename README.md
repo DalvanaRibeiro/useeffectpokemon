@@ -128,6 +128,4 @@ npx create-expo-app@latest --template default
 - Salvar favoritos localmente.
 - Trabalhar com animações.
 
-## Professora
 
-Material organizado para uso em aula de React Native, consumo de API e componentização.
