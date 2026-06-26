@@ -1,10 +1,8 @@
 # Pokédex API 2026 - React Native + Expo
 
-Projeto didático e profissional em **React Native com Expo**, usando **TypeScript**, **componentes**, **useState**, **useEffect**, **useMemo**, **FlatList**, buscador e consumo da **PokéAPI**.
+Projeto em **React Native com Expo**, usando **TypeScript**, **componentes**, **useState**, **useEffect**, **useMemo**, **FlatList**, buscador e consumo da **PokéAPI**.
 
-## Objetivo do projeto
 
-Ensinar aos alunos como criar um aplicativo React Native organizado, bonito e funcional, consumindo dados reais de uma API pública.
 
 ## API utilizada
 
@@ -93,6 +91,12 @@ Entre na pasta do projeto e rode:
 ```bash
 npm install
 npm run start
+
+```
+
+ou 
+```bash
+npx expo start
 ```
 
 Depois, abra no celular com o aplicativo Expo Go ou execute no navegador com:
